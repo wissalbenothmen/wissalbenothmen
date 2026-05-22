@@ -9,7 +9,6 @@
 - 🔭 **2+ years building AI systems** — across academic research (Master in Big Data & AI at Paris-Dauphine, *Lauréate*), freelance, and full-time roles since 2023.
 - 🤖 Shipping **agentic AI copilotes** at TerraGrow — multi-agent LLM orchestration, RAG, voice (Whisper Large v3), OCR (Azure Document Intelligence), satellite imagery, and MLOps from day one.
 - 📚 Going deeper on: inference optimisation (vLLM, quantisation), eval frameworks for multi-agent systems, satellite imagery × LLM pipelines (NDVI / GNDVI).
-- 💼 **Open to AI / ML Engineer roles in France** — available immediately.
 
 ---
 
@@ -114,4 +113,4 @@ Plus 11 more across customs (HS code cross-validation), HR (procedural complianc
 
 ---
 
-<sub>🇫🇷 Based in France · Open to permanent AI / ML Engineer roles · Languages: French — Intermediate Advanced · English — Professional</sub>
+<sub>🇫🇷 Based in France · Languages: French — Intermediate Advanced · English — Professional</sub>
