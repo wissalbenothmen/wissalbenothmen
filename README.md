@@ -1,12 +1,13 @@
 # Hi, I'm Wissal Ben Othmen 👋
 
-> AI Engineer in **France** — building production LLM agents, multi-agent systems, and RAG pipelines that ship to regulated domains.
+> AI Engineer in **France** — **2+ years** building production LLM agents, multi-agent systems, and RAG pipelines that ship to regulated domains.
 
 ---
 
 ## 🎯 Currently
 
-- 🔭 Shipping **agentic AI copilotes** at TerraGrow — multi-agent LLM orchestration, RAG, voice (Whisper Large v3), OCR (Azure Document Intelligence), satellite imagery, and MLOps from day one.
+- 🔭 **2+ years building AI systems** — across academic research (Master in Big Data & AI at Paris-Dauphine, *Lauréate*), freelance, and full-time roles since 2023.
+- 🤖 Shipping **agentic AI copilotes** at TerraGrow — multi-agent LLM orchestration, RAG, voice (Whisper Large v3), OCR (Azure Document Intelligence), satellite imagery, and MLOps from day one.
 - 📚 Going deeper on: inference optimisation (vLLM, quantisation), eval frameworks for multi-agent systems, satellite imagery × LLM pipelines (NDVI / GNDVI).
 - 💼 **Open to AI / ML Engineer roles in France** — available immediately.
 
