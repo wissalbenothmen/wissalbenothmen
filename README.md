@@ -1,6 +1,6 @@
 # Hi, I'm Wissal Ben Othmen 👋
 
-> AI Engineer in **Reims, France** — building production LLM agents, multi-agent systems, and RAG pipelines that ship to regulated domains.
+> AI Engineer in **France** — building production LLM agents, multi-agent systems, and RAG pipelines that ship to regulated domains.
 
 ---
 
@@ -70,4 +70,4 @@ Plus 11 more across customs (HS code cross-validation), HR (procedural complianc
 
 ---
 
-<sub>🇫🇷 Based in Reims · Open to permanent AI / ML Engineer roles · Languages: French (Intermediate Advanced), English (Professional)</sub>
+<sub>🇫🇷 Based in France · Open to permanent AI / ML Engineer roles · Languages: French (Intermediate Advanced), English (Professional)</sub>
